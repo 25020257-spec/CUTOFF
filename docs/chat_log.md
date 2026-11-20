@@ -1,6 +1,6 @@
 # Log làm việc với AI (Claude) — tóm tắt
 
-> Đây là bản tóm tắt phiên làm việc do AI soạn lại, không phải bản xuất nguyên văn. Nếu giảng viên yêu cầu log gốc, hãy xuất/chụp lại hội thoại từ giao diện Claude.
+
 
 **Yêu cầu của sinh viên:** Làm thí nghiệm tìm CUTOFF tốt nhất cho mergesort (đề đính kèm: bài giảng Stacks & Queues, Mergesort, Quicksort). Được dùng AI để thảo luận, viết script, dựng bộ test; mergesort phải dựng từ bài giảng. Nộp: báo cáo, mã + script, bộ dữ liệu, log chat.
 
