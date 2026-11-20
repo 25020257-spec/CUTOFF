@@ -1,7 +1,7 @@
 ---
 title: "Thí nghiệm xác định giá trị CUTOFF tốt nhất cho Mergesort"
 subtitle: "Chuyển sang Insertion sort khi đoạn con nhỏ — đo thực nghiệm trên Java"
-author: "[Họ tên – MSSV]"
+author: "[Nguyễn Văn Mạnh – 25020257]"
 ---
 
 # 1. Mục tiêu
